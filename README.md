@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gaurav166
-- 👀 I’m interested in Java, PHP, Python 
+- 👀 I’m interested in Java, JavaScript, Python, C++ 
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on challenging projects mostly backend
 
