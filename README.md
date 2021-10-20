@@ -2,7 +2,6 @@
 - 👀 I’m interested in Java, PHP, Python 
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on challenging projects mostly backend
-- 📫 How to reach me 
 
 <!---
 gaurav166/gaurav166 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
